@@ -1,0 +1,9 @@
+# WebLLM bundle — too large for git, users download it themselves
+webllm.js
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
